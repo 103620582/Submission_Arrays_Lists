@@ -1,0 +1,15 @@
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/bin/Debug/net5.0/ListsArrays.deps.json
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/bin/Debug/net5.0/ListsArrays.runtimeconfig.json
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/bin/Debug/net5.0/ListsArrays.runtimeconfig.dev.json
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/bin/Debug/net5.0/ListsArrays.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/bin/Debug/net5.0/ref/ListsArrays.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/bin/Debug/net5.0/ListsArrays.pdb
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.csprojAssemblyReference.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.AssemblyInfoInputs.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.AssemblyInfo.cs
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.csproj.CoreCompileInputs.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ref/ListsArrays.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.pdb
+/Users/joyambrose/Documents/UNI/Intro Prog/ListsArrays/obj/Debug/net5.0/ListsArrays.genruntimeconfig.cache

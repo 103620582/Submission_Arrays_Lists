@@ -1,0 +1,15 @@
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/bin/Debug/net5.0/Arrays-Ex2.deps.json
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/bin/Debug/net5.0/Arrays-Ex2.runtimeconfig.json
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/bin/Debug/net5.0/Arrays-Ex2.runtimeconfig.dev.json
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/bin/Debug/net5.0/Arrays-Ex2.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/bin/Debug/net5.0/ref/Arrays-Ex2.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/bin/Debug/net5.0/Arrays-Ex2.pdb
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.csprojAssemblyReference.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.AssemblyInfoInputs.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.AssemblyInfo.cs
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.csproj.CoreCompileInputs.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/ref/Arrays-Ex2.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.pdb
+/Users/joyambrose/Documents/UNI/Intro Prog/LIST_ARRAYS/Arrays-Ex2/obj/Debug/net5.0/Arrays-Ex2.genruntimeconfig.cache
